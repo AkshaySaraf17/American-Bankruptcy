@@ -68,12 +68,3 @@ pip install -r requirements.txt
 
 - **HW1_Solutions.ipynb**: Contains the machine learning implementations and detailed explanations.
 - **requirements.txt**: Lists all dependencies for the project.
-
-## Notes
-
-This notebook is designed for educational purposes, demonstrating key concepts and workflows in machine learning. It is not optimized for production environments.
-
-## Contributing
-
-Feel free to fork this repository, make improvements, and create pull requests. Contributions are always welcome!
-
